@@ -1,5 +1,7 @@
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedHashSet;
 
 public class Project3 {
     public static void main(String[] args) {
@@ -12,7 +14,7 @@ public class Project3 {
 
         System.out.println(str1);
 
-        HashSet<String> str2 = new HashSet<>();
+        LinkedHashSet<String> str2 = new LinkedHashSet<>();
         str2.addAll(str1);
         str1.clear();
         str1.addAll(str2);

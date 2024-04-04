@@ -40,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Project3">
+  <component name="RunManager" selected="Application.Project4">
     <configuration name="Project1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Project1" />
       <module name="Project7" />
@@ -62,11 +62,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Project4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project4" />
+      <module name="Project7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Project4" />
+        <item itemvalue="Application.Project1" />
         <item itemvalue="Application.Project3" />
         <item itemvalue="Application.Project2" />
-        <item itemvalue="Application.Project1" />
       </list>
     </recent_temporary>
   </component>
